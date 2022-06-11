@@ -1,0 +1,10 @@
+{
+  "location_terms": {
+    "airbnb": ["Sevierville, TN, USA"],
+    "vrbo": ["Sevierville, TN, USA"]
+  },
+  "location_url": {
+    "airbnb": ["https://www.airbnb.com/s/Sevierville--TN--USA/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&date_picker_type=calendar&checkin=2022-06-22&checkout=2022-06-24&adults=1&source=structured_search_input_header&search_type=filter_change&query=Sevierville%2C%20TN%2C%20USA"],
+    "vrbo": ["https://www.vrbo.com/search/keywords:st-louis-missouri-united-states-of-america/arrival:2022-06-22/departure:2022-06-24?adultsCount=2&petIncluded=false&filterByTotalPrice=true"]
+  }
+}
